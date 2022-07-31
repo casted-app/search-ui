@@ -11,6 +11,6 @@
     "start": "docsmobile start"
   },
   "dependencies": {
-    "@elastic/docsmobile": "^1.6.0"
+    "@elastic/docsmobile": "^1.9.1"
   }
 }
